@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://rainbow-puffpuff-ea1b14.netlify.app/sitemap.xml
